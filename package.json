@@ -1,0 +1,11 @@
+{
+  "name": "dobdark-atom",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "DobDark-Atom",
+  "repository": "https://github.com/BenoitMC/DobDark-Atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
